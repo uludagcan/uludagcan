@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm Can, a passionate Software Developer with a love for  AI, Machine Learning and Web Development. I'm continuously learning and exploring new technologies to stay ahead in this rapidly evolving field.
+
+🌱 I’m currently learning: 
+Python and machine and deep learning libraries.
